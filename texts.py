@@ -1,1 +1,1 @@
-your_lang = 'Это твой язык'
+start_greeting = 'Sup bro'
